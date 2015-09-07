@@ -2,7 +2,7 @@
 
 2015.8.26 微信公众号：OneTalk 长按二维码识别
 
-![OneTalkQR](onetalkqr.jpg)
+![QR](qrcode.jpg)
 
 MM: 今年开始身边越来越多的人开始各种健身啊、减肥啊什么的。朋友圈里一下子冒出很多晒跑步的朋友。
 
