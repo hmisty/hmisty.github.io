@@ -44,6 +44,7 @@
   * [2013.9 我的政治指南针测试结果](misc/2013-09-06-politics-compass-clone-my-result.markdown)
   * [2013.8 Quicklojure: Yet Another Clojure Distribution](misc/2013-08-19-quicklojure.markdown)
   * [2010.2 开放平台实验室简报](misc/2010-03-08-newsletter-10-dot-02.markdown)
+  * [2010.2 《蜗居》观影微评](misc/2010-02-20-weibo-woju-comments.markdown)
 
 [Cheatsheet/速查]()
 
