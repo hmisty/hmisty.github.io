@@ -37,6 +37,7 @@
 
 [Start-up/创业]()
 
+  * [2015.9 关于销售复盘会的建议](startup/2015-09-21-sales-retro-meeting.markdown)
   * [2015.8 关于创业公司的股权结构问题](startup/2015-08-19-ownership-structure.markdown)
 
 [Essay/杂文]()
