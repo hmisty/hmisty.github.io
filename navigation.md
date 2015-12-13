@@ -1,6 +1,6 @@
 # Evan Hmisty Liu
 
-[Homepage/首页](index.md)
+[Dashboard/首页](index.md)
 
 [Insight/行业观察]()
 
