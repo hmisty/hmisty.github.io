@@ -1,6 +1,6 @@
 # 美SEC主席的区块链课程和监管态度
 
-8月3号，美国证券和交易委员会（U.S. Securities And Exchange Commission，简称SEC）在官网上发布了一篇公开陈述（public statement）[1]。这篇文章是关于SEC主席Gary Gensler在Aspen安全论坛前的演讲。
+8月3号，美国证券和交易委员会（U.S. Securities And Exchange Commission，简称SEC）在官网上发布了一篇公开陈述（public statement）\[1\]。这篇文章是关于SEC主席Gary Gensler在Aspen安全论坛前的演讲。
 
 Gary Gensler简单科普了一下比特币和区块链的由来，准确指出了中本聪发明的比特币所解决的问题：
 
@@ -16,34 +16,34 @@ Gary Gensler简单科普了一下比特币和区块链的由来，准确指出�
 
 Gary Gensler所讲的，就是他曾经在MIT斯隆管理学院作为教授开设区块链相关课程，该课程代号为15.S12，名称叫做《区块链和货币》（Blockchain and Money）。
 
-感谢MIT的开放大学计划，我们今天可以在互联网上免费学习Gary Gensler教授的这套课程。课程视频可以在MIT OpenCourseware网站上找到[2]。
+感谢MIT的开放大学计划，我们今天可以在互联网上免费学习Gary Gensler教授的这套课程。课程视频可以在MIT OpenCourseware网站上找到\[2\]。
 
 课程共有24节课，如下：
 
-- 第1课 导引
-- 第2课 货币，账本和比特币
-- 第3课 区块链基础和密码学
-- 第4课 区块链基础和共识
-- 第5课 区块链基础和交易，UTXO，以及脚本代码
-- 第6课 智能合约和DApps
-- 第7课 技术挑战
-- 第8课 公共政策
-- 第9课 联盟（链）系统
-- 第10课 金融系统的挑战和机遇
-- 第11课 区块链经济学
-- 第12课 用例评估
-- 第13课 支付，第一部分
-- 第14课 支付，第二部分
-- 第15课 中央银行和商业银行，第一部分
-- 第16课 中央银行和商业银行，第二部分
-- 第17课 二级市场和加密货币交易所
-- 第18课 （缺）
-- 第19课 一级市场，ICO，以及风险投资，第一部分
-- 第20课 一级市场，ICO，以及风险投资，第二部分
-- 第21课 交易后的清算，结算以及处理
-- 第22课 贸易融资和供应链
-- 第23课 数字身份
-- 第24课 小结
+* 第1课 导引
+* 第2课 货币，账本和比特币
+* 第3课 区块链基础和密码学
+* 第4课 区块链基础和共识
+* 第5课 区块链基础和交易，UTXO，以及脚本代码
+* 第6课 智能合约和DApps
+* 第7课 技术挑战
+* 第8课 公共政策
+* 第9课 联盟（链）系统
+* 第10课 金融系统的挑战和机遇
+* 第11课 区块链经济学
+* 第12课 用例评估
+* 第13课 支付，第一部分
+* 第14课 支付，第二部分
+* 第15课 中央银行和商业银行，第一部分
+* 第16课 中央银行和商业银行，第二部分
+* 第17课 二级市场和加密货币交易所
+* 第18课 （缺）
+* 第19课 一级市场，ICO，以及风险投资，第一部分
+* 第20课 一级市场，ICO，以及风险投资，第二部分
+* 第21课 交易后的清算，结算以及处理
+* 第22课 贸易融资和供应链
+* 第23课 数字身份
+* 第24课 小结
 
 从目录上看，现任美SEC主席Gensler教授的这套课程是值得严肃认真的从业者好好学习一下的。毕竟，作为全球金融最高监管机构的掌门人，他的思想和对行业的认知，对行业发展的影响是举足轻重的。
 
@@ -53,9 +53,9 @@ Gary Gensler在演讲中说，大部分加密资产都不是货币（需要同�
 
 他认为，大部分发行和销售的代币都是证券，不受监管的证券。他引用了前SEC主席Jay Clayton在2018年所做的听证证言：
 
-「To the extent that digital assets like [initial coin offerings, or ICOs] are securities — and I believe every ICO I have seen is a security — we have jurisdiction, and our federal securities laws apply.」
+「To the extent that digital assets like \[initial coin offerings, or ICOs\] are securities — and I believe every ICO I have seen is a security — we have jurisdiction, and our federal securities laws apply.」
 
-「在某种程度上，像 [初始代币发行或 ICOs] 这样的数字资产是证券——我相信我见过的每一个 ICO 都是一种证券——我们有管辖权，我们的联邦证券法适用。」
+「在某种程度上，像 \[初始代币发行或 ICOs\] 这样的数字资产是证券——我相信我见过的每一个 ICO 都是一种证券——我们有管辖权，我们的联邦证券法适用。」
 
 Gary Gensler补充说，ICO这种游离于监管之外的证券发行，让价格易受操纵，投资者变得脆弱。
 
@@ -75,9 +75,9 @@ Gary Gensler补充说，ICO这种游离于监管之外的证券发行，让价�
 
 他最后还谈到了ETF以及资产托管。
 
-「I anticipate that there will be filings with regard to exchange-traded funds (ETFs) under the Investment Company Act (’40 Act). When combined with the other federal securities laws, the ’40 Act provides significant investor protections.」
+「I anticipate that there will be filings with regard to exchange-traded funds \(ETFs\) under the Investment Company Act \(’40 Act\). When combined with the other federal securities laws, the ’40 Act provides significant investor protections.」
 
-「我预计将根据《投资公司法》（'40 法案）提交有关交易所交易基金 (ETF) 的文件。 与其他联邦证券法结合使用时，'40 法案提供了重要的投资者保护。」
+「我预计将根据《投资公司法》（'40 法案）提交有关交易所交易基金 \(ETF\) 的文件。 与其他联邦证券法结合使用时，'40 法案提供了重要的投资者保护。」
 
 「The final policy area has to do with custody of crypto assets. The SEC is seeking comment on crypto custody arrangements by broker-dealers and relating to investment advisers. Custody protections are key to preventing theft of investor assets, and we will be looking to maximize regulatory protections in this area. 」
 
@@ -92,8 +92,9 @@ Gary Gensler补充说，ICO这种游离于监管之外的证券发行，让价�
 作为在MIT开设区块链课程的教授，前CFTC主席（奥巴马总统时期），旨在加强美国股市监管的2002年萨班斯-奥克斯利法案（Sarbanes-Oxley Act）编委顾问，Gary Gensler主席绝对是一个十分懂行的技术型官僚。当2021年2月3号，美国总统Joe Biden提名他为SEC主席时，他的履新就已被预期会对行业带来深远影响。
 
 参考资料
-- [1] https://www.sec.gov/news/public-statement/gensler-aspen-security-forum-2021-08-03
-- [2] https://ocw.mit.edu/courses/sloan-school-of-management/15-s12-blockchain-and-money-fall-2018/
 
-(公众号：刘教链。知识星球：公众号回复“星球”) \
-(免责声明：本文内容均不构成任何投资建议。加密货币为极高风险品种，有随时归零的风险，请谨慎参与，自我负责。)
+* \[1\] [https://www.sec.gov/news/public-statement/gensler-aspen-security-forum-2021-08-03](https://www.sec.gov/news/public-statement/gensler-aspen-security-forum-2021-08-03)
+* \[2\] [https://ocw.mit.edu/courses/sloan-school-of-management/15-s12-blockchain-and-money-fall-2018/](https://ocw.mit.edu/courses/sloan-school-of-management/15-s12-blockchain-and-money-fall-2018/)
+
+\(公众号：刘教链。知识星球：公众号回复“星球”\)  \(免责声明：本文内容均不构成任何投资建议。加密货币为极高风险品种，有随时归零的风险，请谨慎参与，自我负责。\)
+
