@@ -22,5 +22,5 @@
 1. Wall Street Jounral. Fed’s Powell Plays Down Inflation Threat -- Sees shortages fading over time, bringing inflation closer to the Fed’s 2% long-run target. https://www.wsj.com/articles/feds-powell-set-to-testify-before-lawmakers-on-pandemic-programs-11624370400
 2. Reuters. Fed will not raise rates on inflation fears alone, Powell says. https://www.reuters.com/business/us-lawmakers-likely-press-powell-feds-hawkish-turn-2021-06-22/
 
-(公众号：刘教链。知识星球：公众号回复“星球”)
+(公众号：刘教链。知识星球：公众号回复“星球”) \
 (免责声明：本文内容均不构成任何投资建议。加密货币为极高风险品种，有随时归零的风险，请谨慎参与，自我负责。)

@@ -1,3 +1,4 @@
+# 行有不得，反求诸己
 
 开放的自由市场是大众情绪的晴雨表。24波动不停的价格就像温度计，测量着全球市场参与者的悲喜。价格有时候跑的比谣言和新闻还要快。想知道某个事件的结果，不用打开推特或新闻网站，先看看价格就大概心里有数了。
 
@@ -27,5 +28,5 @@ DEF发了一篇长文[2]逐点澄清大家对其出售UNI的关切。关于为�
 1. 巴拉圭的加密货币议案 https://www.thestreet.com/crypto/bitcoin/a-bill-to-regulate-bitcoin-in-paraguay-has-been-proposed-today
 2. DEF Update https://medium.com/@defieducationfund/defi-education-fund-update-e665cee774e9
 
-(公众号：刘教链。知识星球：公众号回复“星球”)
+(公众号：刘教链。知识星球：公众号回复“星球”) \
 (免责声明：本文内容均不构成任何投资建议。加密货币为极高风险品种，有随时归零的风险，请谨慎参与，自我负责。)
